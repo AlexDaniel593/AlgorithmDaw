@@ -1,0 +1,14 @@
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\AlgorithmDraw\AlgorithmDraw\bin\Debug\AlgorithmDraw.exe
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\AlgorithmDraw\AlgorithmDraw\bin\Debug\AlgorithmDraw.exe.config
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\AlgorithmDraw\AlgorithmDraw\obj\Debug\AlgorithmDraw.csproj.AssemblyReference.cache
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\AlgorithmDraw\AlgorithmDraw\obj\Debug\AlgorithmDraw.FrmAlgorithmBresenham.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\AlgorithmDraw\AlgorithmDraw\obj\Debug\AlgorithmDraw.FrmAlgorithmCircle.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\AlgorithmDraw\AlgorithmDraw\obj\Debug\AlgorithmDraw.FrmAlgorithmDDA.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\AlgorithmDraw\AlgorithmDraw\obj\Debug\AlgorithmDraw.FrmIndex.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\AlgorithmDraw\AlgorithmDraw\obj\Debug\AlgorithmDraw.FrmPolygon.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\AlgorithmDraw\AlgorithmDraw\obj\Debug\AlgorithmDraw.Properties.Resources.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\AlgorithmDraw\AlgorithmDraw\obj\Debug\AlgorithmDraw.csproj.GenerateResource.cache
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\AlgorithmDraw\AlgorithmDraw\obj\Debug\AlgorithmDraw.csproj.CoreCompileInputs.cache
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\AlgorithmDraw\AlgorithmDraw\obj\Debug\AlgorithmDraw.exe
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\AlgorithmDraw\AlgorithmDraw\obj\Debug\AlgorithmDraw.pdb
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\AlgorithmDraw\AlgorithmDraw\bin\Debug\AlgorithmDraw.pdb
