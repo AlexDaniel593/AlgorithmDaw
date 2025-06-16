@@ -49,7 +49,7 @@
     <Compile Include="AlgorithmBresenham.cs" />
     <Compile Include="AlgorithmCircle.cs" />
     <Compile Include="AlgorithmDDA.cs" />
-    <Compile Include="Figura.cs" />
+    <Compile Include="Figure.cs" />
     <Compile Include="FrmAlgorithmBresenham.cs">
       <SubType>Form</SubType>
     </Compile>

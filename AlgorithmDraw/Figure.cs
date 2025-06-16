@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace AlgorithmDraw
 {
-    public abstract class Figura
+    public abstract class Figure
     {
         private int animationInterval = 1;
         private List<Point> filledPixels = new List<Point>();

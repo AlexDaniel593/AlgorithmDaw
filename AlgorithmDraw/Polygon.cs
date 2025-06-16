@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace AlgorithmDraw
 {
-    internal class Polygon : Figura
+    internal class Polygon : Figure
     {
         private float mRadio;
         private int numLados;
